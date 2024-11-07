@@ -1,0 +1,57 @@
+*{
+    margin: 5px;
+}
+.main{
+    margin-left:20%;
+}
+.head{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color: orange;
+    height: 100px;
+    width: 70%;
+}a{
+    text-decoration: none;
+    color: white;
+}
+.ans{
+    padding-left: 10px;
+}
+h2{
+    color: blue;
+}
+h4{
+    font-size: 20px;
+}
+.question{
+    padding: 23px;
+}
+ul{
+    list-style: circle;
+}
+ul{
+    margin-top: 20px;
+    margin-right: 20px;
+}
+li{
+    font-size: 20px;
+}
+
+.b1{
+    background-color: rgb(0, 110, 255);
+    width: 80px;
+    height: 30px;
+    border-radius: 5px;
+    color: white;
+    border: none;
+}
+.b2{
+    background-color: rgb(33, 184, 33);
+    width: 80px;
+    height: 30px;
+    border-radius: 5px;
+    color: white;
+    border: none;
+}
